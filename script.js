@@ -4,3 +4,6 @@ var typed = new Typed(".typing", {
     backSpeed: 60,
     loop: true
 });
+function myFunction() {
+  alert("Sorry My Resume is Currently unavailable");
+}
